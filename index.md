@@ -4,6 +4,7 @@ Redes Neurais Profundas para classificar imagens de radiografias odontológica p
 ## String de busca
 Tabela abaixo apresenta as string de busca para cada base de dados escolhida no estudo. Como pode ser observado existe algumas variações de sintaxe na string de busca para cada base de dados. Foram consultadas as respectivas documentações das bases de dados para criação de cada string de busca.
 
+
 |Base de dados|String de busca|
 |-------------|----------------|
 |ACM            |Artificial Neural Networks OR  ANN OR Deep Learning OR  Neural Networks OR \\Machine Learning OR Convolutional Neural Networks OR CNN) \\ AND \\ (Panoramic Dental Radiographs OR  Panoramic Radiography OR \\  Dental Panoramic X-rays OR  Orthopantomogram OR  Panoramic Oral Radiography) \\ AND \\ (Age Groups OR  Age Classification OR Age-Specific Analysis OR Age Categories)   |
