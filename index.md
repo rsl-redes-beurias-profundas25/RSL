@@ -1,5 +1,4 @@
-Redes Neurais Profundas para classificar imagens de radiografias odontológica panorâmica na perspectiva de grupos etários: Uma revisão sistemática da Literatura
-# Planejamento
+
 
 ## String de busca
 Tabela abaixo apresenta as string de busca para cada base de dados escolhida no estudo. Como pode ser observado existe algumas variações de sintaxe na string de busca para cada base de dados. Foram consultadas as respectivas documentações das bases de dados para criação de cada string de busca.
