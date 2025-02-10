@@ -1,8 +1,17 @@
-
+Redes Neurais Profundas para classificar imagens de radiografias odontológica panorâmica na perspectiva de grupos etários: Uma revisão sistemática da Literatura
+# Planejamento
 
 ## String de busca
 Tabela abaixo apresenta as string de busca para cada base de dados escolhida no estudo. Como pode ser observado existe algumas variações de sintaxe na string de busca para cada base de dados. Foram consultadas as respectivas documentações das bases de dados para criação de cada string de busca.
 
+|Base de dados|String de busca|
+|-------------|----------------|
+|ACM |Artificial Neural Networks OR  ANN OR Deep Learning OR  Neural Networks OR Machine Learning OR Convolutional Neural Networks OR CNN)  AND  (Panoramic Dental Radiographs OR  Panoramic Radiography OR   Dental Panoramic X-rays OR  Orthopantomogram OR  Panoramic Oral Radiography)  AND  (Age Groups OR  Age Classification OR Age-Specific Analysis OR Age Categories)   |
+|PubMed|"artificial neural networks" OR "deep learning" OR "neural networks" OR  "machine learning" OR "convolutional neural networks" OR  "CNN") AND  ("panoramic dental radiographs" OR "panoramic radiography" OR  "dental panoramic x-rays" OR "orthopantomogram" OR  "panoramic oral radiography") AND  ("age groups" OR "age classification" OR  "age-specific analysis" OR "age categories")|
+|Science Direct |artificial neural networks, panoramic dental radiographs, age groups     |
+|Scopus|(TITLE-ABS-KEY("artificial neural networks" OR "ANN" OR "deep learning" OR  "neural networks" OR "machine learning" OR "convolutional neural networks" OR  "CNN"))  AND  (TITLE-ABS-KEY("panoramic dental radiographs" OR  "panoramic radiography" OR "dental panoramic x-rays" OR "orthopantomogram" OR  "panoramic oral radiography")) AND  (TITLE-ABS-KEY("age groups" OR  "age classification" OR  "age-specific analysis" OR  "age categories"))|
+|Springer link|("artificial neural networks" OR "ANN" OR  "deep learning" OR "neural networks" OR  "machine learning" OR "convolutional neural networks" OR "CNN") AND  ("panoramic dental radiographs" OR "panoramic radiography" OR  "dental panoramic x-rays" OR orthopantomogram OR "panoramic oral radiography") AND  ("age groups" OR "age classification" OR  "age-specific analysis" OR "age categories")|                            
+|Web of Science|TS=("artificial neural networks" OR "ANN" OR "deep learning" OR "neural networks" OR "machine learning" OR "convolutional neural networks" OR "CNN") AND  TS=("panoramic dental radiographs" OR "panoramic radiography" OR  "dental panoramic x-rays" OR "orthopantomogram" OR "panoramic oral radiography") AND  TS=("age groups" OR "age classification" OR  "age-specific analysis" OR "age categories")|
 
 
 # Execução
@@ -28,7 +37,7 @@ A Tabela abaixo apresenta os trabalhos selecionados para compor a presente revis
 |14|DENSEN: a convolutional neuralnetwork for estimating  chronological agesfrom panoramic radiographs|  2021      |
 |15|Age estimation on panoramic dental X-ray images using deep learning|    2021           |  
 |16|Accurate age classification using manual method and deep  convolutional neural network based on orthopantomogram images|   2021                |
-|17|Dental Age Estimation Based on X-ray Images | 2020                                            |  
+|17|Dental Age Estimation Based on X-ray Images | 2020|                                            |  
 
 
 ## Referencias:
@@ -52,4 +61,4 @@ A Tabela abaixo apresenta os trabalhos selecionados para compor a presente revis
 
 
 # Análise
-
+texto
